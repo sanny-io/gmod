@@ -1,0 +1,25 @@
+{
+    "projects": [
+        [
+            "Helix",
+            [
+                {
+                    "name": "Vocoder",
+                    "description": "Adds vocoder sounds for Overwatch soldiers.",
+                    "tag": "HL2 RP",
+                    "link": "https://github.com/sanny-io/helix-plugins/tree/master/vocoder"
+                }
+            ]
+        ],
+        [
+            "Clockwork",
+            [
+                {
+                    "name": "Star Wars Schema",
+                    "description": "A roleplaying universe taking place a long time ago in a galaxy far, far away..",
+                    "link": "https://github.com/sanny-io/cwstarwars"
+                }
+            ]
+        ]
+    ]
+}
